@@ -5,6 +5,4 @@ first steps.
 ## Ipsum
 
 
-just text
-
-jzst more text
+1.index.html
